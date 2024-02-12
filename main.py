@@ -26,3 +26,5 @@ while True:
         break
 
 print("çıkış yapılıyor")
+
+print("Yapıldı")
